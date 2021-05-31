@@ -14,6 +14,7 @@ gerencie seu tempo como achar melhor.
 
 Requisitos mínimos do teste:
 > 1) Desenvolver utilizando React >= 16 (Com React Hooks).
+> 2) Utilizar git para o controle do desenvolvimento
 
 
 # O teste:
