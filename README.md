@@ -1,8 +1,8 @@
 # Teste de Front-end Spalla
 Olá candidato,
 
-Bem-vindo à segunda etapa do processo de recrutamento para a equipe de front-end do Spalla. Obrigado pelo seu interesse em
-inscrevendo-se para se juntar a nós e pelo tempo e esforço que está disposto a dedicar a este teste.
+Bem-vindo à segunda etapa do processo de recrutamento para a equipe de front-end do Spalla. Obrigado pelo seu interesse em 
+se juntar a nós e pelo tempo e esforço que está disposto a dedicar a este teste.
 
 Em primeiro lugar, não esperamos que você termine tudo o que propomos aqui, só queremos que você faça o seu melhor e
 mostre-nos suas habilidades. Nossa análise será baseada na qualidade de sua solução e também no código que você produz
